@@ -43,16 +43,13 @@ FocusFlow was inspired by behavioral psychology principles like:
 ## 📸 Screenshots
 
 ### 🏠 Home Interface
-![Home Interface](images/home_screen.png)
+![top home_screen](https://github.com/user-attachments/assets/f413d07c-538f-4942-afb3-3dd8ee47011a)
 
 ### 📋 Task List
-![Task List](images/task_list.png)
+![task_list](https://github.com/user-attachments/assets/18c6c5e4-6d66-4e11-b3e4-fab771c09644)
 
-### 📆 Suggested Schedule
-![Suggested Schedule](images/suggested_schedule.png)
-
-### 🔋 Cognitive Energy Graph
-![Energy Graph](images/energy_chart.png)
+### 📆 Suggested Schedule & Cognitive Energy Graph
+![suggested_schedule](https://github.com/user-attachments/assets/1e70d049-cdd6-4d8c-94cd-c974f1b0a9b6)
 
 ---
 
