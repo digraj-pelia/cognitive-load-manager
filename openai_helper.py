@@ -1,9 +1,8 @@
 import openai
 import os
-from dotenv import load_dotenv
+import streamlit as st
+client = openai.OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
-load_dotenv()
-client = openai.OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 def break_down_task(task_description):
     prompt = (
