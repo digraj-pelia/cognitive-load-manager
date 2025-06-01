@@ -117,7 +117,7 @@ if st.session_state.task_list:
                   labels={"Time": "Time of Day", "Energy": "Remaining Cognitive Energy"})
     st.plotly_chart(fig, use_container_width=True)
 
-if st.button("🔍 Break Down Task"):
+if st.button("🔍 Break Down Task", key="break_task_button"):
     with st.spinner("Thinking..."):
         subtasks = break_down_task(task_to_break)
 
